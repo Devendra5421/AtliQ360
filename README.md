@@ -9,7 +9,6 @@ My name is Devendra and I worked on a project recently. I followed the Codebasic
 ## Tech Stack:
 
 - SQL
-- SQL
 - PowerBi Desktop
 - Excel
 - DAX language
